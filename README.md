@@ -1,0 +1,1 @@
+Just messing around with OpenCode. The Weather dashboard is particularly amusing. I let it pick its own web dev stack and it went with Python with an embedded HTML/JS template in Python for some reason. 
