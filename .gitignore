@@ -32,3 +32,4 @@
 *.app
 
 cpp-reverse/qt-reverse/build
+.serena
