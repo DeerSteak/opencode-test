@@ -1,0 +1,5 @@
+/Volumes/External Storage/opencode-test/qt-reverse/build/CMakeFiles/reverse.dir
+/Volumes/External Storage/opencode-test/qt-reverse/build/CMakeFiles/edit_cache.dir
+/Volumes/External Storage/opencode-test/qt-reverse/build/CMakeFiles/rebuild_cache.dir
+/Volumes/External Storage/opencode-test/qt-reverse/build/CMakeFiles/reverse_autogen_timestamp_deps.dir
+/Volumes/External Storage/opencode-test/qt-reverse/build/CMakeFiles/reverse_autogen.dir
